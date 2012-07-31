@@ -1,4 +1,4 @@
-$.fn.fixed_position_header = function () {
+$.fn.fixedTableHeader = function () {
     var t = $(this);
 
     var tableOffset = t.offset().top;

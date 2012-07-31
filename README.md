@@ -21,9 +21,9 @@ Define your table:
 
 	<table id="myTable"> ... </table>
 
-From within your code call to the `fixed_position_header()` function on your selector. 
+From within your code call to the `fixedTableHeader()` function on your selector. 
 
-	$("#myTable").fixed_position_header();
+	$("#myTable").fixedTableHeader();
 
 Go and have another beer.      
     
